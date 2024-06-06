@@ -1,4 +1,5 @@
-[![Dependency Status](https://img.shields.io/david/graphql/graphql-landscape.svg?style=flat-square)](https://david-dm.org/graphql/graphql-landscape) [![Netlify Status](https://api.netlify.com/api/v1/badges/9fe8d885-037d-48ce-8bf9-3bfa54152945/deploy-status)](https://app.netlify.com/sites/graphql-landscape/deploys)
+![Libraries.io dependency status for GitHub repo](https://img.shields.io/librariesio/github/graphql/graphql-landscape)
+![Netlify](https://img.shields.io/netlify/9fe8d885-037d-48ce-8bf9-3bfa54152945?link=https%3A%2F%2Fapp.netlify.com%2Fsites%2Fgraphql-landscape%2Fdeploys)
 
 # GraphQL Landscape
 
